@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <title>My Website</title>
+  </head>
+  <body>
+    <h1>This is an h1 heading</h1>
+    <h2>This is an h2 heading</h2>
+    <h3>This is an h3 heading</h3>
+    <h4>This is an h4 heading</h4>
+    <h5>This is an h5 heading</h5>
+   <hr>
+    <br>
+    <pre>
+      The quick brown fox jumped over the lazy dog.
+    </pre>
+    <p>
+      some txt goes here
+    </p>
+    <!--comment here -->
+  <a href="https://www.google.com/?safe=active&ssui=on"
+    target="_blank"
+    title="goes to google">
+    click me 
+  </a>
+<br> 
+    <a href="lyrics.html">
+      song lyrics
+    </a>
+<br> 
+    <a href="mailto:guy@fake.com">
+      email me
+    </a>
+    <img src="Bird Walking Sticker - Find & Share on GIPHY.gif"
+alt="walking duck gif"
+    height="200">
+  </a>
+  <head>
+    <link rel="icon" href="Screenshot 2024-03-08 11.17.22 PM.png">
+<title>Me Code</title>
+  </head>
+  </body>
+</html>
